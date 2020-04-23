@@ -1,0 +1,52 @@
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.dll
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Index.g.cshtml.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\Week8\ASP.net\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.dll
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.input.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.output.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Index.g.cshtml.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Calculator\Result.g.cshtml.cs
+C:\Users\Galymzhan\Desktop\3 Course\SWD3 Microsoft .NET(2 semester)\practical tutorial 2\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Messages\ShowMessage.g.cshtml.cs
